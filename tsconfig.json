@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      // подсвечивает все места где нужно указать тип
+      "noImplicitAny": true,
+      "module": "ESNext",
+      // В какую спецификацию компилируем код
+      "target": "es5",
+      "jsx": "react-jsx",
+      // Компилятор будет обрабатывать не только TS файлы, но и JS файлы
+      "allowJs": true,
+      "moduleResolution": "node",
+      // esModuleInterop позволяет работать с пакетами, которые использует
+      // common js как с обычными паетами с помощью import 
+      "esModuleInterop": true,
+      // allowSyntheticDefaultImports если какая-то библиотека не имеет default import 
+      // позволяет писать вместо * as обычный импорт
+      "allowSyntheticDefaultImports": true
+    },
+    "ts-node": {
+        "compilerOptions": {
+            "module": "CommonJS"
+        }
+    }
+}
