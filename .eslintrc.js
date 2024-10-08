@@ -41,6 +41,7 @@ module.exports = {
         'eslint-disable-next-line': 'off',
         'linebreak-style': 'off',
         'i18next/no-literal-string': ['error', { markupOnly: true }],
+        'max-len': ['error', { ignoreComments: true, code: 120 }],
     },
     globals: {
         __IS_DEV__: true,
