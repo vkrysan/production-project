@@ -1,10 +1,10 @@
 /* eslint-disable i18next/no-literal-string */
 import { classNames } from 'shared/lib/classNames/classNames';
 import { useTranslation } from 'react-i18next';
-import cls from './Navbar.module.scss';
 import { Button, ThemeButton } from 'shared/ui/Button/Button';
 import { Modal } from 'shared/ui/Modal/Modal';
 import { useCallback, useState } from 'react';
+import cls from './Navbar.module.scss';
 
 interface NavbarProps {
     className?: string;
@@ -28,7 +28,12 @@ export const Navbar = ({ className }: NavbarProps) => {
                 {t('Log in')}
             </Button>
             <Modal isOpen={isAuthModal} onClose={onToggleModal}>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eligendi autem earum praesentium nemo exercitationem rem, nam possimus, porro accusamus enim atque! Odit et fugit unde facilis impedit cupiditate dignissimos?
+                {t(`Lorem ipsum dolor sit, 
+                    amet consectetur adipisicing elit. 
+                    Suscipit eligendi autem earum praesentium 
+                    nemo exercitationem rem, nam possimus, 
+                    porro accusamus enim atque! Odit et fugit 
+                    unde facilis impedit cupiditate dignissimos`)}
             </Modal>
         </div>
     );
