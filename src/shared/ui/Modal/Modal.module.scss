@@ -2,11 +2,12 @@
     position: fixed;
     top: 0;
     bottom: 0;
-    left: 0;
     right: 0;
+    left: 0;
     opacity: 0;
     pointer-events: none;
     z-index: -1;
+    color: var(--primary-color);
 }
 
 .overlay {
@@ -31,9 +32,10 @@
     pointer-events: auto;
     opacity: 1;
     z-index: var(--modal-z-index);
-        .content {
-            transform: scale(1);
-        }
+
+    .content {
+        transform: scale(1);
+    }
 }
 
 .isClosing {

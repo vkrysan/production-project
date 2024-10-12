@@ -1,11 +1,10 @@
 .Button {
     cursor: pointer;
     color: var(--primary-color);
-    padding: 10px 15px;
+    padding: 6px 15px;
 }
 
-.clear,
-.clearInverted {
+.clear {
     padding: 0;
     border: none;
     background: none;
@@ -13,6 +12,10 @@
 }
 
 .clearInverted {
+    padding: 0;
+    border: none;
+    background: none;
+    outline: none;
     color: var(--inverted-primary-color);
 }
 
@@ -32,12 +35,10 @@
     background: var(--inverted-bg-color);
     color: var(--inverted-primary-color);
     border: none;
-
 }
 
 .square {
-    width: 40px;
-    height: 40px;
+    padding: 0;
 }
 
 .square.size_m {
@@ -58,9 +59,11 @@
 .size_m {
     font: var(--font-m);
 }
+
 .size_l {
     font: var(--font-l);
 }
+
 .size_xl {
     font: var(--font-xl);
 }

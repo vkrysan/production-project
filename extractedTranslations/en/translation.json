@@ -1,17 +1,19 @@
 {
-  "Decrement": "",
-  "Increment": "",
-  "Log in": "",
-  "Lorem ipsum dolor sit, \n                    amet consectetur adipisicing elit": {
-    " \n                    Suscipit eligendi autem earum praesentium \n                    nemo exercitationem rem, nam possimus, \n                    porro accusamus enim atque! Odit et fugit \n                    unde facilis impedit cupiditate dignissimos": ""
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
+      "": ""
+    }
   },
-  "Toggle": "",
+  "decrement": "decrement",
+  "increment": "increment",
   "throw error": "throw error",
+  "Войти": "Войти",
   "Главная": "Главная",
   "Главная страница": "Главная страница",
   "О сайте": "О сайте",
   "О сайте123123": "О сайте123123",
   "Обновить страницу": "Обновить страницу",
+  "Переключить": "Переключить",
   "Произошла непредвиденная ошибка": "Произошла непредвиденная ошибка",
   "Страница не найдена": "Страница не найдена",
   "Язык": "Язык"
