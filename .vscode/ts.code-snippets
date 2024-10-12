@@ -1,0 +1,13 @@
+{
+    "Snippet for project":{
+        "prefix": ["ts", "ts"],
+        "body": [
+			"describe('${TM_FILENAME_BASE}', () => {",
+				"test('', () => {",
+					"expect(${TM_FILENAME_BASE}).toEqual();",
+				"});",
+			"});"
+		],
+        "description": "create test template"
+    }
+}
