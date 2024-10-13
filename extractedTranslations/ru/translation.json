@@ -1,9 +1,13 @@
 {
+  "Login": "Login",
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
     " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
       "": ""
     }
   },
+  "Write here": "Write here",
+  "Your password": "Your password",
+  "Your username": "Your username",
   "decrement": "decrement",
   "increment": "increment",
   "throw error": "throw error",
