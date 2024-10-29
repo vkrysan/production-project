@@ -1,5 +1,7 @@
 {
+  "Cancel": "Cancel",
   "Edit": "Edit",
+  "Error": "Error",
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
     " Aliquid commodi consequatur eligendi impedit incidunt necessitatibus possimus quis saepe sunt totam": {
       "": ""
@@ -7,8 +9,16 @@
   },
   "Profile": "Profile",
   "Profile Page": "Profile Page",
+  "Save": "Save",
+  "Try reload page": "Try reload page",
+  "Your Country": "Your Country",
+  "Your age": "Your age",
+  "Your avatar": "Your avatar",
+  "Your city": "Your city",
+  "Your currency": "Your currency",
   "Your firstname": "Your firstname",
   "Your lastname": "Your lastname",
+  "Your username": "Your username",
   "decrement": "decrement",
   "increment": "increment",
   "throw error": "throw error",

@@ -2,5 +2,15 @@
   "Profile": "Профиль",
   "Edit": "Редактировать",
   "Your firstname": "Ваше имя",
-  "Your lastname": "Ваша фамилия"
+  "Your lastname": "Ваша фамилия",
+  "Error": "Ошибка",
+  "Try reload page": "Попробуйте перезагрузить страницу",
+  "Cancel": "Отменить",
+  "Save": "Сохранить",
+  "Your age": "Ваш возраст",
+  "Your city": "Ваш город",
+  "Your username": "Ваш ник",
+  "Your avatar": "Ваш аватар",
+  "Your currency": "Ваша валюта",
+  "Your Country": "Ваша страна"
 }

@@ -25,14 +25,14 @@
       "password": "123"
     }
   ],
-  "profile": { 
-    "first": "Владимир",
+  "profile": {
+    "first": "Владимирр",
     "lastname": "Крисан",
     "age": 26,
-    "currency": "RUB",
+    "currency": "EUR",
     "country": "Russia",
     "city": "Moscow",
     "username": "admin",
-    "avatar": "https://th.bing.com/th/id/R.528bfe4df036d317c6a9e219c8b59f9c?rik=B0UBqhvv%2f8QFcw&pid=ImgRaw&r=0"
+    "avatar": "https://th.bing.com/th/id/OIP.B2F53PBCJuTzdG87EkqO5AHaHa?rs=1&pid=ImgDetMain"
   }
 }

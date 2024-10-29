@@ -2,5 +2,15 @@
   "Profile": "Profile",
   "Edit": "Edit",
   "Your firstname": "Your name",
-  "Your lastname": "Your lastname"
+  "Your lastname": "Your lastname",
+  "Error": "Error",
+  "Try reload page": "Try reload page",
+  "Cancel": "Cancel",
+  "Save": "Save",
+  "Your age": "Your age",
+  "Your city": "Your city",
+  "Your username": "Your username",
+  "Your avatar": "Your avatar",
+  "Your currency": "Your currency",
+  "Your Country": "Your country"
 }
